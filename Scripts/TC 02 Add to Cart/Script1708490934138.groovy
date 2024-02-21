@@ -32,5 +32,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/sauce_demo/Page_Swag La
 
 WebUI.click(findTestObject('Object Repository/sauce_demo/Page_Swag Labs/add to cart/input_Swag Labs_login-button'))
 
-WebUI.click(findTestObject('Object Repository/sauce_demo/Page_Swag Labs/add to cart/button_Add to cart'))
+WebUI.click(findTestObject('sauce_demo/Page_Swag Labs/add to cart/button_Add to cart'))
 
